@@ -204,11 +204,19 @@ Published in **MAT Journal**
 </div>
 
 ---
-
-## 🐍 Contribution Activity
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hardik-Sonawane/Hardik-Sonawane/output/snake.svg" alt="GitHub Contribution Snake" />
+# 🐍 Contribution Journey
+
+> Turning ideas into experiments, experiments into projects,
+> and projects into real-world AI solutions.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Hardik-Sonawane/Hardik-Sonawane/output/snake.svg" alt="GitHub Contribution Snake" width="900"/>
+
+<br>
+
+**🤖 AI/ML** &nbsp; • &nbsp; **🧠 Learning** &nbsp; • &nbsp; **💻 Building** &nbsp; • &nbsp; **🚀 Shipping**
 
 </div>
