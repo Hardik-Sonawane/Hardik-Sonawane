@@ -169,9 +169,9 @@ Published in **MAT Journal**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hardik-Sonawane&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hardik-Sonawane&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Sonawane&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardik-Sonawane&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
@@ -179,11 +179,9 @@ Published in **MAT Journal**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-Sonawane&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardik-Sonawane&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -202,8 +200,6 @@ Published in **MAT Journal**
 </p>
 
 </div>
-
----
 <div align="center">
 
 # 🐍 Contribution Journey
