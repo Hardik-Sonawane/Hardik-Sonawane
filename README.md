@@ -203,3 +203,12 @@ Published in **MAT Journal**
 
 </div>
 
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Hardik-Sonawane/Hardik-Sonawane/output/snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
