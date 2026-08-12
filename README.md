@@ -66,7 +66,6 @@ Currently, I'm exploring how modern AI systems can be made more **useful, reliab
 `OpenCV` · `MediaPipe` · `YOLOv8` · `Image Processing` · `Object Detection`
 
 ---
-
 # 🚀 Featured Projects
 
 <table>
@@ -83,6 +82,10 @@ An NLP-based system that analyzes resumes against job descriptions and provides 
 
 **Focus:** Resume Intelligence · NLP · Semantic Matching
 
+<a href="https://ats-frontend-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Project-View%20Project-6f42c1?style=for-the-badge"/>
+</a>
+
 </td>
 
 <td width="50%">
@@ -96,6 +99,10 @@ An NLP-based system that analyzes resumes against job descriptions and provides 
 A real-time computer vision system designed to recognize hand gestures and support communication accessibility.
 
 **Focus:** Computer Vision · Hand Tracking · Real-Time AI
+
+<a href="https://github.com/Hardik-Sonawane">
+<img src="https://img.shields.io/badge/💻%20GitHub-View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 </tr>
@@ -113,6 +120,10 @@ A computer vision solution for detecting and classifying plant diseases from lea
 
 **Focus:** Deep Learning · Image Classification · Computer Vision
 
+<a href="https://cropdisease-frontend.onrender.com">
+<img src="https://img.shields.io/badge/🌐%20Live%20Project-View%20Project-2ea44f?style=for-the-badge"/>
+</a>
+
 </td>
 
 <td width="50%">
@@ -126,6 +137,10 @@ A computer vision solution for detecting and classifying plant diseases from lea
 An AI-powered drone swarm concept for human detection, disaster-zone mapping and coordinated search-and-rescue operations.
 
 **Focus:** Object Detection · Robotics · Autonomous Systems
+
+<a href="https://disasterproject-2-vf49.onrender.com/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Project-View%20Project-e05d44?style=for-the-badge"/>
+</a>
 
 </td>
 </tr>
