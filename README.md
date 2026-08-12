@@ -67,22 +67,6 @@ Currently, I'm exploring how modern AI systems can be made more **useful, reliab
 
 ---
 
-## 💼 Experience
-
-### Data Analyst Intern — AI Genius LLP
-
-**Feb 2026 – June 2026**
-
-Worked on e-commerce analytics using **Python, SQL, Excel and Power BI**, covering data cleaning, exploratory analysis, visualization and business insight generation.
-
-### Data Science Intern — Celebal Technologies
-
-**June 2026 – August 2026**
-
-Worked on **machine learning model development, data preprocessing, model evaluation and performance optimization** as part of practical data science workflows.
-
----
-
 # 🚀 Featured Projects
 
 <table>
